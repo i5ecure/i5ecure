@@ -1,8 +1,12 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+
+### Frameworks
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+
 
 ### Technologies
 
