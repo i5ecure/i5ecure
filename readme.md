@@ -16,5 +16,3 @@
 ![GNU](https://img.shields.io/badge/-GNU-000?&logo=GNU)
 ![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
