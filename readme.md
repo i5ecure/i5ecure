@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Heis5ecure)
+![](https://komarev.com/ghpvc/?username=Heis5ecure&color=blueviolet)
 
 
 ### Languages
