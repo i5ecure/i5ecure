@@ -14,4 +14,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb)
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kjq5tp6987564w8nfr1jk69ap)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kjq5tp6987564w8nfr1jk69ap&count={5}))
