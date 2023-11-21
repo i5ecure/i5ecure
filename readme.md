@@ -22,7 +22,3 @@ a semi-skilled backend developer and cybersecurity enthusiast. Currently, I am d
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kjq5tp6987564w8nfr1jk69ap)
-
-## Contact me:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/5ecuresamurai) 
-[![Telegram](https://img.shields.io/badge/Telegram-%23FF4500.svg?logo=Telegram&logoColor=white)](https://i5ecure.t.me)
