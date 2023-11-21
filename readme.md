@@ -1,4 +1,4 @@
-# About Me:
+1# About Me:
 a semi-skilled backend developer and cybersecurity enthusiast. Currently, I am dedicating my time to mastering Rust, a powerful and rapidly growing programming language. My experience and expertise have prepared me for any challenges that come my way, and I am confident in my ability to excel in any task or project I undertake.
 
 ### Skills
@@ -15,11 +15,11 @@ a semi-skilled backend developer and cybersecurity enthusiast. Currently, I am d
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
-![Nginx](https://img.shields.io/badge/-TOR-000?&logo=TOR)
-![MySQL](https://img.shields.io/badge/-TOR-000?&logo=TOR)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![TOR](https://img.shields.io/badge/-TOR-000?&logo=TOR)
+![TOR](https://img.shields.io/badge/-Tor-000?&logo=Tor)
 ![Wireguard](https://img.shields.io/badge/-Wireguard-000?&logo=Wireguard)
 
 
