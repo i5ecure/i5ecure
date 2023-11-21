@@ -19,6 +19,9 @@ a semi-skilled backend developer and cybersecurity enthusiast. Currently, I am d
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+
+
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kjq5tp6987564w8nfr1jk69ap)
